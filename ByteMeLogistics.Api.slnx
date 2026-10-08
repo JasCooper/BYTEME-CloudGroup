@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ByteMeLogistics.Api/ByteMeLogistics.Api.csproj" />
+  <Project Path="ByteMeLogistics.Web/ByteMeLogistics.Web.csproj" Id="ef103715-6c31-4eac-8ba1-3f69aaa9a465" />
+</Solution>
