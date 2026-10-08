@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "BYTE_ME_CoffeeNChill": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7203",
-      "launchBrowser": false
-    }
-  }
-}
